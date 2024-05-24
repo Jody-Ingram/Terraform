@@ -1,5 +1,5 @@
 /*  HCP Main Configuration File for Virtual Machine Deployment in Azure
-    Azure Tenant ID: 77955633-07fe-440b-98a5-c2a4084271b4
+    Azure Tenant ID: 00000000-0000-0000-0000-000000000000
     Author: Jody Ingram
 */
 
