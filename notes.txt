@@ -1,1 +1,1 @@
-https://github.com/hashicorp/tfc-guide-example
+Getting Started Guide: https://github.com/hashicorp/tfc-guide-example
